@@ -1,0 +1,3 @@
+[submodule "demo/plugins/css"]
+	path = demo/plugins/css/wiffle
+	url = git://github.com/registerguard/wiffle.git
