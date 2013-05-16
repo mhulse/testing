@@ -1,3 +1,6 @@
-[submodule "demo/plugins/css/wiffle"]
-	path = demo/plugins/css/wiffle
+[submodule "doctrine"]
+	path = doctrine
+	url = git://github.com/doctrine/doctrine2.git
+[submodule "wiffle"]
+	path = wiffle
 	url = git://github.com/registerguard/wiffle.git
